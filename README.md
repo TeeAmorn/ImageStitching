@@ -1,6 +1,6 @@
 # Automatic image stitching using SIFT and projective transformations
 
-Note to the readers: please refer to ``figures.pdf`` to see the accompanying figures.
+Note to the readers: please refer to ``report.pdf`` to see the PDF version along with the accompanying figures.
 
 ## PERSONAL VIEWS
 
